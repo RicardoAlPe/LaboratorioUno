@@ -1,0 +1,8 @@
+C:\Users\English\Desktop\Laboratorio\obj\Debug\Laboratorio.csproj.AssemblyReference.cache
+C:\Users\English\Desktop\Laboratorio\obj\Debug\Laboratorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\English\Desktop\Laboratorio\obj\Debug\Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\English\Desktop\Laboratorio\bin\Debug\Laboratorio.exe.config
+C:\Users\English\Desktop\Laboratorio\bin\Debug\Laboratorio.exe
+C:\Users\English\Desktop\Laboratorio\bin\Debug\Laboratorio.pdb
+C:\Users\English\Desktop\Laboratorio\obj\Debug\Laboratorio.exe
+C:\Users\English\Desktop\Laboratorio\obj\Debug\Laboratorio.pdb
